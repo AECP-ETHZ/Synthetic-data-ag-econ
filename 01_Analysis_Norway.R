@@ -16,9 +16,6 @@
 # and 'Figures/Norway'. The data are automatically downloaded from the         #
 # internet. The script was successfully run with R version 4.2.0.              #
 #                                                                              #
-# The codes are also published in the following github repository:             #
-# https://github.com/AECP-ETHZ/Synthetic-data-ag-econ                          #
-#                                                                              #
 # ---------------------------------------------------------------------------- #
 
 # Content:
